@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIPS.iml" filepath="$PROJECT_DIR$/AIPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listi/Listi.iml" filepath="$PROJECT_DIR$/Listi/Listi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIZI/NIZI.iml" filepath="$PROJECT_DIR$/NIZI/NIZI.iml" />
+    </modules>
+  </component>
+</project>
