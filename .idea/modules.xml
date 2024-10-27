@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AIPS.iml" filepath="$PROJECT_DIR$/AIPS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Listi/Listi.iml" filepath="$PROJECT_DIR$/Listi/Listi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DLL List/DLL List.iml" filepath="$PROJECT_DIR$/DLL List/DLL List.iml" />
       <module fileurl="file://$PROJECT_DIR$/NIZI/NIZI.iml" filepath="$PROJECT_DIR$/NIZI/NIZI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SLL List/SLL List.iml" filepath="$PROJECT_DIR$/SLL List/SLL List.iml" />
     </modules>
   </component>
 </project>
